@@ -13,8 +13,6 @@
 <img src="image/logo_iim.png" alt="IIM" width="20%" height="20%" box-sizing="content-box">
 
 <hr>
-    ::before
-    ::after
 </hr>
     
 * :computer: Actuellement en deuxième année à l'IIM Digital School en Coding et Digital Innovation.

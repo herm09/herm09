@@ -25,10 +25,6 @@
 * :book: J'apprends le front end et le back end.
 * :envelope: Pour me contacter : hermione.tetard@edu.devinci.fr
 
-<hr>
-</hr>
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 ## <h3 align="left">Connect with me :mobile_phone:</h3>
 <p align="left">

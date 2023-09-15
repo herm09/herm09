@@ -10,7 +10,10 @@
 # Bonjour :wave: moi c'est Hermione :sparkles:
 
 <br><br>
-<img src="image\your_name.gif" alt="gif" width="70%" height="50%" box-sizing="content-box">
+<p align="center">
+  <img src="image\your_name.gif" alt="gif" width="70%" height="50%" />
+</p>
+
 
 <hr>
 </hr>

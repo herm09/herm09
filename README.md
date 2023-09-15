@@ -10,7 +10,7 @@
 # Bonjour :wave: moi c'est Hermione :sparkles:
 
 <br><br>
-<img src="https://cdn.discordapp.com/attachments/709341435350089828/1152290196805648444/EA997A94-9A7E-4496-A33D-F0F0217DB614.gif" alt="gif" width="90%" height="50%" box-sizing="content-box">
+<img src="C:\laragon\www\profil-github\image\your_name.gif" alt="gif" width="90%" height="50%" box-sizing="content-box">
 
 <hr>
 </hr>

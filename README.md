@@ -19,17 +19,16 @@
 <hr>
 </hr>
 
+
 ## Bio :comet:
     
 * :computer: Actuellement en deuxième année à l'IIM Digital School en Coding et Digital Innovation.
 * :book: J'apprends le front end et le back end.
 * :envelope: Pour me contacter : hermione.tetard@edu.devinci.fr
 
-
 ## <h3 align="left">Connect with me :mobile_phone:</h3>
 
-<hr>
-</hr>
+
 
 <p align="left">
 <a href="https://linkedin.com/in/hermione tetard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hermione tetard" height="30" width="40" /></a>

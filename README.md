@@ -10,6 +10,7 @@
 # Bonjour. Bienvenue sur mon profil ! :sparkles:
 
 Je m'appelle Hermione TETARD et je suis actuellement en deuxième année à l'IIM Digital School.
+    <br>
     <img src="image/logo_iim.png" alt="IIM" width="30%" height="30%">
     
 </body>

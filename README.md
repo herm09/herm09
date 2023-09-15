@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <!-- <title>Document</title> -->
 </head>
 <body>
 
@@ -18,6 +18,8 @@
 
 <hr>
 </hr>
+
+## Bio :comet:
     
 * :computer: Actuellement en deuxième année à l'IIM Digital School en Coding et Digital Innovation.
 * :book: J'apprends le front end et le back end.

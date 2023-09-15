@@ -7,11 +7,11 @@
 </head>
 <body>
 
-# Bonjour. Bienvenue sur mon profil ! :sparkles:
+# Bonjour :wave: moi c'est Hermione :sparkles:
 
 Je m'appelle Hermione TETARD et je suis actuellement en deuxième année à l'IIM Digital School.
     <br><br>
-    <img src="image/logo_iim.png" alt="IIM" width="30%" height="30%">
+    <img src="image/logo_iim.png" alt="IIM" width="20%" height="20%">
     
 </body>
 </html>

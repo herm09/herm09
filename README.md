@@ -16,7 +16,8 @@
 </hr>
     
 * :computer: Actuellement en deuxième année à l'IIM Digital School en Coding et Digital Innovation.
-* 
+* :book: J'apprends le front end et le back end.
+* :e_mail: Pour me contacter : hermione.tetard@edu.devinci.fr
 
 
 </body>
